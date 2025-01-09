@@ -1,5 +1,5 @@
 <!--
-SPDX-FileCopyrightText: 2021 Robin Vobruba <hoijui.quaero@gmail.com>
+SPDX-FileCopyrightText: 2021-2024 Robin Vobruba <hoijui.quaero@gmail.com>
 
 SPDX-License-Identifier: CC0-1.0
 -->
@@ -22,4 +22,5 @@ This repo contains two [JSON-Schema](https://json-schema.org)s:
 * [okh-losh.schema.json](okh-losh.schema.json)
 * [okh-v1.schema.json](okh-v1.schema.json)
 
-They are used at least in the [`okh-tool`](https://github.com/OPEN-NEXT/LOSH-OKH-tool).
+They are used at least in the [`okh-tool`](
+https://github.com/OPEN-NEXT/LOSH-OKH-tool).
