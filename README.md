@@ -6,6 +6,18 @@ SPDX-License-Identifier: CC0-1.0
 
 # OKH JSON-Schemas
 
+---
+
+**DEPRECATION WARNING -
+This repo is now in read-only mode.
+The JSON-Schemas have been integrated into the new OKH standard repo:
+<https://github.com/iop-alliance/OpenKnowHow>**
+
+As of January 2025,
+they can be found there in the`/src/schema/` directory.
+
+---
+
 [![GitHub license](
     https://img.shields.io/github/license/OPEN-NEXT/LOSH-OKH-JSON-Schemas.svg?style=flat)](
     ./LICENSE.txt)
